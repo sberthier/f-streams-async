@@ -11,7 +11,7 @@
     "typings": "build/index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git://github.com/BEE-BUZZINESS/f-streams-async.git"
+        "url": "git://github.com/sberthier/f-streams-async.git"
     },
     "engines": {
         "node": ">=18.0.0"
